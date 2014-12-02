@@ -56,14 +56,14 @@ __Staff may submit punishments of staff members of a lower ranking staff member_
  - Offender is subject to a Minor Vocal Punishment.
  - A repeating offender is subject to a Major Vocal Punishment.
 - Clients that grant an unfair advantage over other players
- - Clients such as "Nodus", "Huzuni" that contain hacks not limited to the following list are disallowed
-   - ESP
-   - X-Ray
-   - FreeCam
-   - Criticals
-   - Reach
-   - ForceField
-   - Unmentioned hacks may be punished by an Admin, if justified, the hack will find its way to this list
+  - Clients such as "Nodus", "Huzuni" that contain hacks not limited to the following list are disallowed
+    - ESP
+    - X-Ray
+    - FreeCam
+    - Criticals
+    - Reach
+    - ForceField
+    - Unmentioned hacks may be punished by an Admin, if justified, the hack will find its way to this list
   - Offender is subject to a Severe Gameplay Punishment
   - A Repeating offender is subject to a Critical Gameplay Punishment
   - Victim Reparations
