@@ -56,7 +56,7 @@ __Staff may submit punishments of staff members of a lower ranking staff member_
  - Offender is subject to a Minor Vocal Punishment.
  - A repeating offender is subject to a Major Vocal Punishment.
 - Clients that grant an unfair advantage over other players
-  - Clients such as "Nodus", "Huzuni" that contain hacks not limited to the following list are disallowed
+  - Clients such as "Nodus", "Huzuni", "Kronos", etc, that contain hacks not limited to the following list are disallowed
     - ESP
     - X-Ray
     - FreeCam
@@ -99,8 +99,10 @@ __Staff may submit punishments of staff members of a lower ranking staff member_
 - Fraudulent attempts regarding the purchase of donor rewards
   - Offender may be banned from purchasing from Buycraft
   - Offender may be subject to a Severe Gameplay Punishment
-- Knowingly wronfully reporting a player for a rule breaking
+- Knowingly wrongfully reporting a player for a rule breaking
   - Offender may be subject to a Severe Vocal Punishment
+- Advertising another server
+  - Offender will be blacklisted from the server
 
 #####Appeal Process
 1. Player must contact a server administrator or owner.
